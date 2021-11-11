@@ -1,0 +1,17 @@
+{
+  "name": "rps-engine-client-js-examples",
+  "version": "1.0.0",
+  "description": "RPSEngine client examples",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "RegdataSA Dmytro Novikov",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {}
+}
